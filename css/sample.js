@@ -1,1 +1,1 @@
-const sample = () => 'Hello';
+const sample = () => 'Hello world';
