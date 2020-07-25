@@ -1,5 +1,5 @@
 # CSS
 ### Cheatsheet for css
 
-###### All key concepts of CSS
+#### All key concepts of CSS
 
